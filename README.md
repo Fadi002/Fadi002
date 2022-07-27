@@ -4,7 +4,7 @@
 
 ---
 
-- ❤ I’m love Python 
+- ❤ I love Python 
 - 💬 Ask me about anything related to Python
 - 📫 How to reach me : 5H3LL#2161
 
