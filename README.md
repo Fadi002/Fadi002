@@ -1,4 +1,4 @@
-### welcome to my **profile** 
+### Welcome to my **profile** 
 
 ![Discord](https://discord.c99.nl/widget/theme-1/770990243842490388.png)
 
