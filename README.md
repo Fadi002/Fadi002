@@ -17,4 +17,6 @@
 ---
 
 ### 📍 Profile Visitor Count
-<img align="left" alt="ChickenDevs' Stats" src="https://profile-counter.glitch.me/Fadi002/count.svg">
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Fadi/count.svg" />  
+</p>
