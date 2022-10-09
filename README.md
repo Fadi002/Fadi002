@@ -1,12 +1,12 @@
 ### Welcome to my **profile** 
 
-![Discord](https://discord.c99.nl/widget/theme-1/770990243842490388.png)
+![Discord](https://discord.c99.nl/widget/theme-2/929445525374242836.png)
 
 ---
 
 - ❤ I love Python 
 - 💬 Ask me about anything related to Python
-- 📫 How to reach me : 5H3LL#2161
+- 📫 How to reach me : Mr. pepe#3262
 
 ---
 
