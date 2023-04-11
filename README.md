@@ -6,7 +6,7 @@
 
 - ❤ I love Python 
 - 💬 Ask me about anything related to Python
-- 📫 How to reach me : Mr. pepe#3262
+- 📫 How to reach me : Mr. pepe#6121 ( old account termed ) 
 
 ---
 
