@@ -7,7 +7,7 @@
 - ❤ I love Python 
 - 💬 Ask me about anything related to Python
 - 📫 How to reach me : 0xmrpepe_
-- website: https://fadi002.github.io
+- website: https://fadi002.github.io | https://0xmrpepe.000.pe/
   
 ---
 
