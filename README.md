@@ -8,7 +8,7 @@
 - 💬 Ask me about anything related to Python
 - 📫 How to reach me : 0xmrpepe_
 - website: https://fadi002.github.io
-- portfolio + blogs: https://0xmrpepe.000.pe
+- portfolio + blog: https://0xmrpepe.000.pe
   
 ---
 
