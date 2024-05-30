@@ -9,6 +9,8 @@
 - 📫 How to reach me : 0xmrpepe_
 - website: https://fadi002.github.io
 - portfolio + blog: https://0xmrpepe.000.pe
+- cracked.io profile: https://cracked.io/0xmrpepe
+- patched.to profile: https://patched.to/User/0xmrpepe
   
 ---
 
