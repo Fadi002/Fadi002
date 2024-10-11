@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Im mrpepe<br><br>- ❤ I love Python and reverse engineering<br>- website: https://fadi002.github.io<br>- cracked.io profile: https://cracked.io/0xmrpepe<br>- patched.to profile: https://patched.to/User/0xmrpepe</p>
+<p align="left">Im mrpepe (no longer active)<br><br>- ❤ I love Python and reverse engineering<br>- website: https://fadi002.github.io<br>- cracked.io profile: https://cracked.io/0xmrpepe<br>- patched.to profile: https://patched.to/User/0xmrpepe</p>
 
 ###
 
