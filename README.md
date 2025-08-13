@@ -1,6 +1,9 @@
+<!--
 <div align="center">
   <img height="" src="https://profile-counter.glitch.me/Fadi002/count.svg"  />
 </div>
+RIP glitch
+-->
 
 ###
 
