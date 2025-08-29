@@ -4,7 +4,9 @@
 </div>
 RIP glitch
 -->
-
+<div align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=Fadi002&style=for-the-badge)
+</div>
 ###
 
 <h1 align="center">hey there 👋</h1>
