@@ -6,7 +6,7 @@ RIP glitch
 -->
 
 <div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=Fadi002&style=for-the-badge)
+  <img height="" src="https://komarev.com/ghpvc/?username=Fadi002&style=for-the-badge"/>
 </div>
 
 ###
