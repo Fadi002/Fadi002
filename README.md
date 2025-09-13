@@ -4,7 +4,7 @@
 </div>
 RIP glitch
 -->
-
+![](https://hit.yhype.me/github/profile?account_id=104858775)
 <div align="center">
   <img height="" src="https://komarev.com/ghpvc/?username=Fadi002&style=for-the-badge"/>
 </div>
