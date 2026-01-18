@@ -19,7 +19,7 @@ RIP glitch
 
 ###
 
-<p align="left">Im mrpepe (no longer active)<br><br>- ❤ I love Python and reverse engineering<br>- website: https://fadi002.github.io<br>- cracked.io profile: https://cracked.io/0xmrpepe<br>- patched.to profile: https://patched.to/User/0xmrpepe<br>- **Pepe Forums (Tor):** http://l2ou57pb2wuyodjhio5lgkz4vpujfirmb7m23g4odjxifa7rho2hrfyd.onion/
+<p align="left">Im mrpepe (no longer active)<br><br>- ❤ I love Python and reverse engineering<br>- website: https://fadi002.github.io<br>- cracked.io profile: https://cracked.io/0xmrpepe<br>- patched.to profile: https://patched.to/User/0xmrpepe<br>- Pepe Forums (Tor): http://l2ou57pb2wuyodjhio5lgkz4vpujfirmb7m23g4odjxifa7rho2hrfyd.onion
 </p>
 
 ###
