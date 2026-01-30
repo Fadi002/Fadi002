@@ -24,6 +24,7 @@ I'm <b>mrpepe</b> (no longer active)<br><br>
 - 📱 Signal: <a href="https://signal.me/#eu/1wFcG7IKjWDYjAXMOtnfkal91GoHOyLu7IzRPmAuzGTPHzBMCPtDq485nS7UiW37">mrpepe.48</a><br>
 - 💬 Session ID:<br>
 <code>059f57963d6777035a7ba7127e0ee34966c34acfd846194b8ba00f25594bc7e463</code>
+> Cracking, reversing and other stupid questions will be ignored 
 </p>
 
 ---
