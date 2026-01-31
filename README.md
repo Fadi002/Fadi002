@@ -25,6 +25,7 @@ I'm <b>mrpepe</b> (no longer active)<br><br>
 - 💬 Session ID:<br>
 <code>059f57963d6777035a7ba7127e0ee34966c34acfd846194b8ba00f25594bc7e463</code>
 > Cracking, reversing and other stupid questions will be ignored 
+> Currently I don't provide coding or whatever paid services 
 </p>
 
 ---
