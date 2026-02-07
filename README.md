@@ -17,8 +17,6 @@ I'm <b>mrpepe</b> (no longer active)<br><br>
 - 🌐 Website: <a href="https://fadi002.github.io">https://fadi002.github.io</a><br>
 - 🧠 cracked.io: <a href="https://cracked.io/0xmrpepe">https://cracked.io/0xmrpepe</a><br>
 - 🧠 patched.to: <a href="https://patched.to/User/0xmrpepe">https://patched.to/User/0xmrpepe</a><br>
-- 🧅 Pepe Forums (Tor):<br>
-<code>http://l2ou57pb2wuyodjhio5lgkz4vpujfirmb7m23g4odjxifa7rho2hrfyd.onion</code><br><br>
 
 <b>Contact:</b><br>
 - 📱 Signal: <a href="https://signal.me/#eu/1wFcG7IKjWDYjAXMOtnfkal91GoHOyLu7IzRPmAuzGTPHzBMCPtDq485nS7UiW37">mrpepe.48</a><br>
