@@ -55,8 +55,8 @@ I'm <b>mrpepe</b> (no longer active)<br><br>
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadi002&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadi002&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Fadi002&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fadi002&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 ---
